@@ -1,6 +1,6 @@
 # Shipping Cost Calculator
 # Here is a new update by Gazzella
-# Here is another update by gaz2
+
 Copied!
 
 ## Input package weight and shipping rate
