@@ -1,5 +1,5 @@
 # Shipping Cost Calculator
-# Here is a new update by Gazzella
+# Here is a new update by Gazzellas
 
 Copied!
 
